@@ -1,0 +1,18 @@
+.display-2{
+    font-size: 3.5rem;
+
+}
+h4{
+    font-size: 1rem;
+}
+
+h4{
+    letter-spacing: 1.5px;
+    margin-top: 10px;
+}
+
+small{
+    line-height: 1.6;
+    max-width: 400px;
+    margin: 0 auto;
+}
